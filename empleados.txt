@@ -1,0 +1,9 @@
+Damian,Lucero,04-07-1999,54555.04
+Eusebios,Alarcón,07-08-1980,8574.02
+Samuel,Ferreira,14-05-2001,709197.47
+Adrian,Canda,11-04-1970,54111.99
+Franco,Muñoz,20-02-1982,41678.12
+Jose,Gimenez,20-03-1983,42678.75
+Franco,Quinteros,20-04-1983,43678.65
+Zulma,Herrera,20-05-1988,44678.35
+Franco,Aguirre,20-02-1999,41678.54
